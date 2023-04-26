@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moy Macias 🧑🏻‍💻
 - 👀 I’m a mobile and web developer
-- I use ReactJS and React Native to build my apps and currently learning I'm learning swift / swiftUI 
+- I use ReactJS and React Native to build my apps and I'm currently learning swift / swiftUI 
 
 # Coming soon
 - I'm creating an application called "Garnappcha" 👀 expect it soon. 
